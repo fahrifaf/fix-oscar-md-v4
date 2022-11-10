@@ -39,59 +39,59 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285850539404', '𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌', true],
-['6285943036511', '𝙾𝚜𝚌𝚊𝚛', true]
+['6287785175535', 'Fzx', true],
+['62877851755350', 'Fzx', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '0'
-global.nomorown = '6285850539404'
-global.nomorown1 = '6285850539404'
-global.nomorown2 = '6285943036511'
+global.nomorown = '6287785175535'
+global.nomorown1 = '6287785175535'
+global.nomorown2 = '62877851755350'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
-global.namebot = '𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
-global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.author = 'Fzx'
+global.namebot = 'Fzx-Md''
+global.wm = '© By@fahrifq_'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.wm2 = 'Fzx-Md''
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.packname2 = 'Fzx-Md''
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
-global.stickpack = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝚘𝚜𝚌𝚊𝚛'
-global.stickauth = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.titlebot = `Fzx`
+global.stickpack = 'Fzx'
+global.stickauth = `Fzx`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙹𝚊𝚛𝚘𝚝 𝚘𝚏𝚏𝚌'
-global.nameown2 = '𝙾𝚜𝚌𝚊𝚛'
+global.nameown1= 'FahriZx'
+global.nameown2 = 'Fzx'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = '𝚆𝚊𝚒𝚝'
 global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/jarotr_'
-global.sgh = 'https://github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL' //group whatsapp
+global.sig = 'https://instagram.com/fahrifq_'
+global.sgh = 'https://github.com/fahrifaf' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.snh = 'https://youtube.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085850539404'
-global.povo = '-'
-global.pgopay = '-'
+global.pdana = '087785175535'
+global.povo = '087785175535'
+global.pgopay = '087785175535'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404'
-global.ppulsa2 = '085850539404'
-global.psaweria = 'https://saweria.co/jarotoffc'
+global.ppulsa = '087785175535'
+global.ppulsa2 = '0895386011128'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
